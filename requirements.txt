@@ -1,0 +1,9 @@
+ultralytics
+streamlit
+opencv-python
+numpy
+pillow
+streamlit-webrtc
+torch
+torchvision
+pyyaml
